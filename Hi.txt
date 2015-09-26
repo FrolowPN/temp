@@ -1,3 +1,4 @@
-write("Hi");
-write("dfgsdfgsdfgs 1");
+write("Hi")
+write("dfgsdfgsdfgs 1")
 writeline("1")
+
