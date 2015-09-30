@@ -1,4 +1,0 @@
-write("Hi")
-write("dfgsdfgsdfgs 1")
-writeline("1")
-
